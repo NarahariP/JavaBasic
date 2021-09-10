@@ -18,8 +18,4 @@ public class Student {
 		return new Student(id, name);
 	}
 
-	@Override
-	public String toString() {
-		return "Student [id=" + id + ", name=" + name + "]";
-	}
 }
