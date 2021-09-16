@@ -1,4 +1,4 @@
-package com.har.comparable;
+package com.hari.comparable;
 
 import java.util.Arrays;
 import java.util.Collections;

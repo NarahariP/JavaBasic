@@ -1,4 +1,4 @@
-package com.har.comparable;
+package com.hari.comparable;
 
 public class Employee implements Comparable<Employee> {
 	private String deptName;

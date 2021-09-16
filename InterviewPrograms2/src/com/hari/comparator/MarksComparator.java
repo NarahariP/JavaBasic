@@ -1,4 +1,4 @@
-package com.har.comparator;
+package com.hari.comparator;
 
 import java.util.Comparator;
 
