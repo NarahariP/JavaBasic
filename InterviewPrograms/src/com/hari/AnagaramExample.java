@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class AnagaramExample {
+public class AnagaramExample { // TEST
 	private static boolean isAnagaram(String input1, String input2) {
 		boolean isAnagaram = true;
 		if (input1.length() != input2.length()) {
